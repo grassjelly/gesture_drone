@@ -6,6 +6,8 @@ Gesture controlled drone using a wearable device powered by Arduino.
 
 The repository contains all the schematic diagrams and source codes for the drone and wearable device.
 
+Bluetooth auto-pairing instructions can be found here: http://phillipecantin.blogspot.ca/2014/08/hc-05-bluetooth-link-with-zero-code.html
+
 HARDWARE
 --------------
 DRONE
@@ -32,4 +34,5 @@ DRONE
 WEARABLE
 - Add https://github.com/pololu/lsm303-arduino to your Arduino library
 - Upload wearable.ino to the Arduino Pro Mini
+
     
