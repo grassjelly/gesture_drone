@@ -26,10 +26,10 @@ WEARABLE
     
 SOFTWARE
 --------------
-  DRONE
-    Upload drone.ino to the Arduino Mega
+DRONE
+- Upload drone.ino to the Arduino Mega
   
-  WEARABLE
-    Add https://github.com/pololu/lsm303-arduino to your Arduino library
-    Upload wearable.ino to the Arduino Pro Mini
+WEARABLE
+- Add https://github.com/pololu/lsm303-arduino to your Arduino library
+- Upload wearable.ino to the Arduino Pro Mini
     
