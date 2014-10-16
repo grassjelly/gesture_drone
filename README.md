@@ -6,7 +6,8 @@ Gesture controlled drone using a wearable device powered by Arduino.
 
 The repository contains all the schematic diagrams and source codes for the drone and wearable device.
 
-HARDWARE:
+HARDWARE
+=============
   DRONE
     1 x Arduino Mega
     1 x HC-06 (Slave) Bluetooth Breakout Board
@@ -24,6 +25,7 @@ HARDWARE:
     
     
 SOFTWARE
+=============
   DRONE
     Upload drone.ino to the Arduino Mega
   
