@@ -1,6 +1,5 @@
 gesture_drone
 =============
-Last Updated: 16 October 2014
 
 Gesture controlled drone using a wearable device powered by Arduino.
 
